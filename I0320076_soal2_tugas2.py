@@ -30,6 +30,7 @@ print('Buku paling berkesan yang saya baca adalah buku dengan judul', data_bukuf
 print('Pengarang buku yang saya idolakan adalah', data_idola, 'dengan berbagai seri bukunya')
 
 
+
 data_SMA = 'SMAN 1 Surakarta'
 data_float_jarak = 3.5
 data_jurusan = 'Teknik Industri'
